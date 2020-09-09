@@ -11,4 +11,4 @@
 <img style="margin: 0 auto" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" height="200">
 
 
-- Para mais informações, acesse meu portfólio!
+- Para mais informações, acesse meu portfólio aqui embaixo!
