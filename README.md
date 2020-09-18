@@ -9,6 +9,3 @@
 
 ### Olá! Bem vindo ao meu perfil!
 <img style="margin: 0 auto" src="https://media.giphy.com/media/xT9IgtE2Dors136a1W/giphy.gif" height="200">
-
-
-- Para mais informações, acesse meu portfólio aqui embaixo!
