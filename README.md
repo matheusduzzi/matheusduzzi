@@ -1,4 +1,4 @@
-# Cientista de dados - Fundador do Blog Manejo de Dados
+# Cientista de dados
 
 [![Blog](https://img.shields.io/badge/Blog-grey.svg?style=for-the-badge&logo=Instagram)](https://www.instagram.com/manejodedados/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/matheusduzziribeiro/)
