@@ -1,4 +1,4 @@
-<img style="margin: 0 auto" src="https://github.com/matheusduzzi/resume/blob/main/capa_linkedin.png" align = 'center'>
+<img style="margin: 0 auto" src="https://github.com/matheusduzzi/matheusduzzi.github.io/blob/master/images/capa_linkedin.png" align = 'center'>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/matheusduzziribeiro/)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium)](https://medium.com/@matheusduzzi)
