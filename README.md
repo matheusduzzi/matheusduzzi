@@ -1,6 +1,5 @@
 # Cientista de dados
 
-[![Blog](https://img.shields.io/badge/Blog-grey.svg?style=for-the-badge&logo=Instagram)](https://www.instagram.com/manejodedados/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/matheusduzziribeiro/)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium)](https://medium.com/@matheusduzzi)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mduzziribeiro@gmail.com)](mailto:mduzziribeiro@gmail.com)
