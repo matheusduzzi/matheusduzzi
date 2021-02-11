@@ -7,4 +7,5 @@
 ## See more on my website
 
 English version: https://matheusduzzi.com.br
+
 Versão em português: https://matheusduzzi.github.io/
