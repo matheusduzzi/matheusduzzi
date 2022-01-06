@@ -1,16 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Bem vindo ao meu GitHub! Sou apaixonado por <strong>Tecnologia</strong> e atualmente atuo como Cientista de Dados :)<br>
-  Empreendo na área como fundador da DataRock Tecnologia e costumo dar mentorias para a galerinha que quer começar em Data Science
+  Welcome to my GitHub! I am passionate about Technology and currently work as a Data Scientist :) <br>
+  I undertake in the area as the founder of DataRock Tecnologia and I usually give mentoring to people who want to start in Data Science
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>R e Python, principalmente</strong>
+  🦄 Programming languages: <strong>R & Python, principalmente</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>GCP, AWS, Airflow e por ai vai</strong>
+  💼 Tools: <strong>GCP, AWS, Airflow & jedi light saber</strong>
 </p>
 
 
